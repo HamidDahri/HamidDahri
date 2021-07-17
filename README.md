@@ -11,9 +11,10 @@
 :pushpin: HIBERNATE.   
 :pushpin: MYSQL.     
 :pushpin: ORACLE. 
-- 🌱 I’m currently learning BlockChain Solidty and MERN STACK...
+- 🌱 I’m currently learning 🔷 BlockChain Solidty and MERN STACK...
 - 💞️ I’m looking to collaborate on Developing MERN Stack , DApps and DAO Projects..  
-- 📫 How to reach me : My offical Email address is im.hamidmustafa2017@outlook.com.
+- 📫 How to reach me ❓  
+ My offical Email address is im.hamidmustafa2017@outlook.com.
 
 <!---
 HamidDahri/HamidDahri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
