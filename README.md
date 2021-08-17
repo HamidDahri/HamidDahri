@@ -1,16 +1,21 @@
 - 👋 As-Salaam-Alaikum, I’m Hamid Mustafa Dahri i am a software Engineer.
 - 👀 I’m interested in learning new Software Development tools and techniques.
 - :gem: i have intermediate experties oN.  
-:pushpin: JAVA.  
-:pushpin: J2EE.   
-:pushpin: C++.   
-:pushpin: HTML5.   
-:pushpin: CSS3.     
-:pushpin: JSP.     
-:pushpin: SERVLET.   
-:pushpin: HIBERNATE.   
-:pushpin: MYSQL.     
-:pushpin: ORACLE. 
+:pushpin: JAVA.
+:pushpin: J2EE. 
+:pushpin: C++.
+:pushpin: HTML5.
+:pushpin: CSS3.
+:pushpin: JSP.
+:pushpin: SERVLET.
+:pushpin: HIBERNATE.
+:pushpin: MYSQL.
+:pushpin: ORACLE.
+:pushpin: JavaScript.  
+:pushpin: Solidity.
+:pushpin: ETHEREUM.
+:pushpin: ERC20 TOKEN.
+:pushpin: ERC721 TOKEN.
 - 🌱 I’m currently learning 🔷 BlockChain Solidty and MERN STACK...
 - 💞️ I’m looking to collaborate on Developing MERN Stack , DApps and DAO Projects..  
 - 📫 How to reach me ❓  
